@@ -1,0 +1,28 @@
+Nama:Bima Arya Fatah
+Kelas:2B
+NIM:21090029
+
+Soal No.2
+
+Data Matrix
+            Likes       Comment     Share
+John        4              101         8
+Rudi        2               302         10
+Shinta      50              430         45
+Dodi        8               106         9
+
+Implementasinya
+john like : 1
+Rudi like : 1
+Shinta like : 1
+dodi like : 1
+
+John coment : 1
+Rudi coment : 1
+Shinta coment : 1
+Dodi coment : 1
+
+John Share : 1
+rudi share : 1
+shinta share : 1
+dodi share : 1
